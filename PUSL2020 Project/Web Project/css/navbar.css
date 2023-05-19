@@ -1,0 +1,8 @@
+.navbar {
+    transition: height 0.3s ease-in-out;
+  }
+  
+  .navbar.scrolled {
+    height: 80px; /* adjust this to the desired height */
+  }
+  
